@@ -1,6 +1,6 @@
 <resources>
-    <string name="app_name">Real Estate Manager</string>
-    <string name="go_to_login_activity">Go to LogIn activity</string>
+    <string name="app_name">Agent Immobilier App</string>
+    <string name="go_to_login_activity">Go to Login</string>
     <string name="log_in">Log In</string>
     <string name="don_t_have_an_account_register_here">Don\'t have an account? Register here!</string>
     <string name="don_t_remember_password_click_here_to_see_hint">Don\'t remember password? Click here to see hint!</string>
@@ -16,7 +16,7 @@
     <string name="navigation_drawer_open">close drawer</string>
     <string name="navigation_drawer_close">open drawer</string>
     <string name="description">Description</string>
-    <string name="no_description_found">NO DESCRIPTION FOUND</string>
+    <string name="no_description_found">No description founded</string>
     <string name="images">Images</string>
     <string name="media">Media</string>
     <string name="surface">Surface</string>
@@ -56,7 +56,7 @@
     <string name="short_description">Short description</string>
     <string name="type">Type</string>
     <string name="register">Register</string>
-    <string name="doesnt_have_map_permitions">This aplication doen\'t have permition to show the map</string>
+    <string name="doesnt_have_map_permitions">No permission to show the map</string>
     <string name="we_cant_show_the_map">We can\'t show the map</string>
     <string name="ok">Ok</string>
     <string name="not_sold_yet">Not sold yet</string>
